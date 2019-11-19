@@ -7,5 +7,8 @@ to write the code.
 
 def lenlist(l):
     ###########YOUR CODE HERE#############
-    pass
+    if len(l) > 10:
+        return 'Long'
+    else:
+        return 'Short'
     ############END OF CODE###############

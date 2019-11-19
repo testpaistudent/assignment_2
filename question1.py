@@ -6,5 +6,5 @@ file outside of the specified area to write the code.
 
 def xsquaredplus1(x):
     ###########YOUR CODE HERE#############
-    pass
+    return x**2 + 1
     ############END OF CODE###############
